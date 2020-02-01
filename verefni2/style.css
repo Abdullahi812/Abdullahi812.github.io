@@ -1,0 +1,36 @@
+h1{
+    border: 1px groove green;
+
+    
+}
+    
+.listi1 li{
+    margin: 1em;
+    padding: 1em;
+    border:3px dashed green;
+    
+}
+
+.listi2 li{
+    border:4px dotted blue;
+    font-family: sans-serif;
+    display: inline;
+    padding: 1em;
+    margin: 1em;
+    
+}
+
+.listi3 li{
+    display: inline-block;
+    border: 4px dotted red;
+    margin :1em;
+    padding: 1em;
+}
+
+
+    
+    
+
+
+
+

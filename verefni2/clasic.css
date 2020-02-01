@@ -1,0 +1,28 @@
+h1{
+    border: 3px solid green;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+ div{
+    border: 3px solid red;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+ }
+ .green{
+    color: green;
+    
+ }
+ .blue{
+    border:4px dotted blue;
+    padding: 30px;
+    color: blue;
+ }
+ 
+ 
